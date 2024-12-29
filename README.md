@@ -34,7 +34,7 @@
 <p align="left">
 <a href="https://twitter.com/_1f1t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_1f1t" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCnzPW8VsozIGaMS1mpIzmOw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="1f1t-owo" height="30" width="40" /></a>
-<a href="https://discord.gg/2VhkxVqGgV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2VhkxVqGgV" height="30" width="40" /></a>
+<a href="https://discord.gg/EQUsFwNVJ9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EQUsFwNVJ9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
